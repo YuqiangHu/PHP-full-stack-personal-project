@@ -1,0 +1,6 @@
+h1{font-size: 50px;}
+#header{background: url("../images/head.jpg") center -195px no-repeat;height: 800px;}
+#links{ center -195px no-repeat;height: 800px;}
+.header-title{opacity: 1;color: #fff;text-align: center;padding-top: 90px;}
+.big-name{opacity: 1;font-size: 100px;font-weight: bolder;margin-bottom: 100px;}
+.intro_content{font-size: 20px;text-indent: 2em;}

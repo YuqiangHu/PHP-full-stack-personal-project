@@ -1,0 +1,34 @@
+body{font-family: "Microsoft Yahei";font-size: 13px;color: #666;margin: 0;padding: 0;}
+.container{margin: 0 auto; width:1000px}
+ul,li,h1,h2,h3,h4,h5,h6{margin: 0;padding: 0;}
+#txt{ font-size:24px}
+#footer{background: #333;padding: 50px 0;border-top: 1px solid #000;}
+#top-bar{background: url("../images/topbar.jpg");padding: 20px 0;}
+#top-bar p{text-align: center;font-size: 40px;font-weight: bold;color: #555;}
+.copyright{text-align: center;color: #fff;}
+#links{list-style: none;margin: 0 auto;width: 1800px;text-align: center;}
+#main{background: url ("../images/topbar.jpg");height: 300px;border-top: 2px solid #bb9f3f;padding: 50px 0;min-height: 530px;}
+table tr td{height: 60px;}
+.intro_title{color: #bcaf97;}
+.links-ul{list-style: none;}
+.links-ul li a{
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 5px;
+    width: 130px;
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+.links-ul li a:hover,.links-ul li.cur a{color: #bb9f3f;}
+.links-ul>li{float: left;}
+#main img.women_pic{margin: 20px 11px;cursor: pointer;}
+#women_title{font-size: 30px;color: #bcaf97;font-weight: bold;}
+#women_price{font-size: 40px;}
+.contact_list{list-style: square;}
+.contact_list p{height: 40px;}
